@@ -1,0 +1,1 @@
+This project is goaled to create a pure python native implement of Artificial Neural Network.
